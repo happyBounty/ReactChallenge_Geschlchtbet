@@ -10,5 +10,9 @@ code {
 }
 
 .first_rebase2 {
+    margin: 0;
+}
+
+.change_from_childbranch2 {
     padding: 0;
 }
